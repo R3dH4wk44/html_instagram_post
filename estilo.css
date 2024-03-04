@@ -1,0 +1,16 @@
+body{
+    font-family: 'Roboto';
+    font-size: 22px;
+}
+
+.header{
+    display: flex;
+}
+
+h1{
+    font-size: medium;
+}
+
+h2{
+    font-size: small;
+}
