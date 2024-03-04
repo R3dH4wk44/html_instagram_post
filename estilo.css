@@ -1,10 +1,23 @@
 body{
     font-family: 'Roboto';
     font-size: 22px;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.contenedor_post{
+    align-self: center;
+    margin: 0 auto;
+    border: 1px solid red;
+    width: 30%;
+    padding: 5px;
 }
 
 .header{
     display: flex;
+    padding: 5px;
+    align-items: center;
+    justify-content: space-between;
 }
 
 h1{
@@ -14,3 +27,4 @@ h1{
 h2{
     font-size: small;
 }
+
