@@ -57,3 +57,7 @@ h2{
 #iconos_izquierda{
     width:90%;
 }
+.cuenta_likes, .texto_post{
+    font-size: 12px;
+    padding: 5px;
+}
